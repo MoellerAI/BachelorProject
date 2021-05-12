@@ -4,4 +4,4 @@ I have created an algorithmic trading bot using my LSTM model. This repository d
 The purpose of this repository is only to be able to share the code.
 For this project i have been using Keras, thus i afterwards has converted to PyTorch.
 
-You are welcome to check out my ongoing website where i try to publish small papers on various algorithms and coding: www.moellerai.github.io
+You are welcome to check out my ongoing website where i try to publish small papers on various algorithms and coding: https://moellerai.github.io/
